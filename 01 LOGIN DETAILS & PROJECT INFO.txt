@@ -1,0 +1,21 @@
+                                                    User Manual
+
+
+Step1: install xampp
+
+Step2: copy the DbmsProject-HostelManagementSystem folder and paste it inside C:\xampp\htdocs
+
+Step3: open mysql admin from xampp
+
+Step4: create database named hostelmsphp
+
+Step5: import the hostelmsphp.sql script
+
+Step6: in browser type localhost/DbmsProject-HostelManagementSystem
+
+
+
+**Admin Login Details**
+
+Username: admin
+Password: Password@123
